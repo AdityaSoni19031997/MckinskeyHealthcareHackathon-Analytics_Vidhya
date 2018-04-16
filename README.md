@@ -12,7 +12,7 @@ Public LB Score: 0.8278
 
 Private LB Score: 0.8577
 
-Overall Rank: 28
+Overall Rank: 28/584
 
 ### Dataset
 Details regarding the dataset can be found on the contest site. We were given details of a patient such as smoking status, gender, health conditions, lifestyle conditions etc. and were supposed to predict the probability of suffering a strokg for that patient.
