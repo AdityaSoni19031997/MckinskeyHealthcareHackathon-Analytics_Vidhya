@@ -1,5 +1,5 @@
-# Mckinskey Healthcare Hackathon
-## Data Science Hackathon organized by Analytics_Vidhya
+# Mckinskey Healthcare Hackathon by Analytics Vidhya
+## Stroke Prediction - Data Science Hackathon
 
 (Contest Link: https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon/)
 
